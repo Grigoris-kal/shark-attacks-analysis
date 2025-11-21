@@ -1,4 +1,5 @@
-"matplotlib" 
-"seaborn" 
-"jupyter" 
-"openpyxl" 
+pandas 
+matplotlib 
+seaborn 
+jupyter 
+openpyxl 
